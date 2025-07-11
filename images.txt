@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 portainer/portainer-ce:latest
 w958660278/grafana-cn:latest-dev
+openjdk:8-jre-slim
